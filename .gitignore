@@ -1,2 +1,28 @@
-# Google App Engine generated folder
-appengine-generated/
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+logs/
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
