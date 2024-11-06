@@ -250,6 +250,22 @@
 [![The Nebula Award](https://img.shields.io/badge/Nebula%20Award-Winner-4CAF50.svg)](https://nebulas.sfwa.org/)
 [![The Locus Award](https://img.shields.io/badge/Locus%20Award-Winner-673AB7.svg)](https://locusmag.com/)
 [![The Bram Stoker Award](https://img.shields.io/badge/Bram%20Stoker%20Award-Winner-FFC107.svg)](https://horror.org/stoker-awards/)
+[![Goldman Environmental Prize](https://img.shields.io/badge/Goldman%20Environmental%20Prize-Winner-4CAF50.svg)](https://www.goldmanprize.org/)
+[![The Tyler Prize for Environmental Achievement](https://img.shields.io/badge/Tyler%20Prize-Winner-FF5722.svg)](https://tylerprize.org/)
+[![The Goldman Prize](https://img.shields.io/badge/Goldman%20Prize-Winner-FFC107.svg)](https://www.goldmanprize.org/)
+[![The Green Awards](https://img.shields.io/badge/Green%20Awards-Winner-009688.svg)](https://www.greenawards.com/)
+[![The UN Champions of the Earth](https://img.shields.io/badge/UN%20Champions%20of%20the%20Earth-Winner-3F51B5.svg)](https://www.unep.org/championsofearth/)
+[![The Environmental Media Association Awards](https://img.shields.io/badge/EMA%20Awards-Winner-FF9800.svg)](https://www.emawards.org/)
+[![The Ashden Awards](https://img.shields.io/badge/Ashden%20Awards-Winner-673AB7.svg)](https://www.ashden.org/)
+[![The Zayed Sustainability Prize](https://img.shields.io/badge/Zayed%20Sustainability%20Prize-Winner-FF5722.svg)](https://zayedsustainabilityprize.com/)
+[![The International Green Awards](https://img.shields.io/badge/International%20Green%20Awards-Winner-4CAF50.svg)](https://www.greenawards.com/)
+[![The Eco-Excellence Awards](https://img.shields.io/badge/Eco--Excellence%20Awards-Winner-FFC107.svg)](https://eco-excellence.com/)
+[![The Global Green Awards](https://img.shields.io/badge/Global%20Green%20Awards-Winner-009688.svg)](https://globalgreen.org/)
+[![The Earthshot Prize](https://img.shields.io/badge/Earthshot%20Prize-Winner-3F51B5.svg)](https://earthshotprize.org/)
+[![The Climate Leadership Awards](https://img.shields.io/badge/Climate%20Leadership%20Awards-Winner-FF9800.svg)](https://www.climateleadershipawards.org/)
+[![The Green Globe Awards](https://img.shields.io/badge/Green%20Globe%20Awards-Winner-673AB7.svg)](https://www.greenglobe.com/)
+[![The Environmental Protection Agency (EPA) Awards](https://img.shields.io/badge/EPA%20Awards-Winner-4CAF50.svg)](https://www.epa.gov/)
+[![The National Environmental Awards](https://img.shields.io/badge/National%20Environmental%20Awards-Winner-FFC107.svg)](https://www.environmentalawards.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/global-harmony-nexus-core">Global Harmony Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
