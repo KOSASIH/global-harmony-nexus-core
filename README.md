@@ -65,7 +65,10 @@
 [![Earth Day Network](https://img.shields.io/badge/Earth%20Day%20Network-Certified-009688.svg)](https://www.earthday.org/)
 [![The Ocean Conservancy](https://img.shields.io/badge/Ocean%20Conservancy-Certified-4CAF50.svg)](https://oceanconservancy.org/)
 [![The Climate Reality Project](https://img.shields.io/badge/Climate%20Reality%20Project-Certified-FF9800.svg)](https://www.climaterealityproject.org/)
-
+[![The Global Footprint Network](https://img.shields.io/badge/Global%20Footprint%20Network-Certified-FF9800.svg)](https://www.footprintnetwork.org/)
+[![The World Resources Institute](https://img.shields.io/badge/WRI-Certified-673AB7.svg)](https://www.wri.org/)
+[![The Center for Biological Diversity](https://img.shields.io/badge/CBD-Certified-4CAF50.svg)](https://www.biologicaldiversity.org/)
+[![The Nature Conservancy](https://img.shields.io/badge/Nature%20Conservancy-Certified-FF5722.svg)](https://www.nature.org/)
 
 [![International Institute for Applied Systems Analysis](https://img.shields.io/badge/IIASA-Certified-4CAF50.svg)](https://www.iiasa.ac.at/)
 [![International Institute for Strategic Studies](https://img.shields.io/badge/IISS-Certified-FF9800.svg)](https://www.iiss.org/)
