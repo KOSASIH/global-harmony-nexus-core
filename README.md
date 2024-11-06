@@ -17,6 +17,13 @@
 [![Asia-Pacific Economic Cooperation](https://img.shields.io/badge/Asia--Pacific%20Economic%20Cooperation-Certified-FF5722.svg)](https://www.apec.org/)
 [![International Criminal Court](https://img.shields.io/badge/International%20Criminal%20Court-Certified-9C27B0.svg)](https://www.icc-cpi.int/)
 [![World Trade Organization](https://img.shields.io/badge/World%20Trade%20Organization-Certified-4CAF50.svg)](https://www.wto.org/)
+[![International Labour Organization](https://img.shields.io/badge/International%20Labour%20Organization-Certified-FF9800.svg)](https://www.ilo.org/)
+[![Food and Agriculture Organization](https://img.shields.io/badge/Food%20and%20Agriculture%20Organization-Certified-4CAF50.svg)](https://www.fao.org/)
+[![United Nations Educational, Scientific and Cultural Organization](https://img.shields.io/badge/UNESCO-Certified-3F51B5.svg)](https://en.unesco.org/)
+[![International Telecommunication Union](https://img.shields.io/badge/International%20Telecommunication%20Union-Certified-FF5722.svg)](https://www.itu.int/)
+[![World Meteorological Organization](https://img.shields.io/badge/World%20Meteorological%20Organization-Certified-009688.svg)](https://public.wmo.int/en)
+[![International Atomic Energy Agency](https://img.shields.io/badge/International%20Atomic%20Energy%20Agency-Certified-673AB7.svg)](https://www.iaea.org/)
+
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/global-harmony-nexus-core">Global Harmony Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
