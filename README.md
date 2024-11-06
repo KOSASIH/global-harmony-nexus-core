@@ -233,6 +233,23 @@
 [![Wolf Prize](https://img.shields.io/badge/Wolf%20Prize-Winner-009688.svg)](https://www.wolffund.org.il/)
 [![Stirling Prize](https://img.shields.io/badge/Stirling%20Prize-Winner-FF5722.svg)](https://www.architecture.com/)
 [![Hugo Award](https://img.shields.io/badge/Hugo%20Award-Winner-4CAF50.svg)](https://www.thehugoawards.org/)
+[![Emmy Award](https://img.shields.io/badge/Emmy%20Award-Winner-FF9800.svg)](https://www.emmys.com/)
+[![Cannes Film Festival](https://img.shields.io/badge/Cannes%20Film%20Festival-Winner-FF5722.svg)](https://www.festival-cannes.com/en/)
+[![Sundance Film Festival](https://img.shields.io/badge/Sundance%20Film%20Festival-Winner-4CAF50.svg)](https://www.sundance.org/)
+[![César Award](https://img.shields.io/badge/C%C3%A9sar%20Award-Winner-673AB7.svg)](https://www.academie-cinema.org/)
+[![Goya Award](https://img.shields.io/badge/Goya%20Award-Winner-FFC107.svg)](https://www.premiosgoya.com/)
+[![David di Donatello](https://img.shields.io/badge/David%20di%20Donatello-Winner-009688.svg)](https://www.premionididavid.it/)
+[![National Book Award](https://img.shields.io/badge/National%20Book%20Award-Winner-3F51B5.svg)](https://www.nationalbook.org/)
+[![Caldecott Medal](https://img.shields.io/badge/Caldecott%20Medal-Winner-FF5722.svg)](https://www.ala.org/alsc/awardsgrants/bookmedia/caldecottmedal)
+[![Newbery Medal](https://img.shields.io/badge/Newbery%20Medal-Winner-4CAF50.svg)](https://www.ala.org/alsc/awardsgrants/bookmedia/newberymedal)
+[![PEN/Faulkner Award](https://img.shields.io/badge/PEN%2FFaulkner%20Award-Winner-673AB7.svg)](https://www.penfaulkner.org/)
+[![The Booker Prize](https://img.shields.io/badge/Booker%20Prize-Winner-FFC107.svg)](https://thebookerprizes.com/)
+[![The Orange Prize](https://img.shields.io/badge/Orange%20Prize-Winner-009688.svg)](https://www.orangewomensprize.co.uk/)
+[![The Whitbread Prize](https://img.shields.io/badge/Whitbread%20Prize-Winner-3F51B5.svg)](https://www.whitbread.co.uk/)
+[![The Hugo Award](https://img.shields.io/badge/Hugo%20Award-Winner-FF5722.svg)](https://www.thehugoawards.org/)
+[![The Nebula Award](https://img.shields.io/badge/Nebula%20Award-Winner-4CAF50.svg)](https://nebulas.sfwa.org/)
+[![The Locus Award](https://img.shields.io/badge/Locus%20Award-Winner-673AB7.svg)](https://locusmag.com/)
+[![The Bram Stoker Award](https://img.shields.io/badge/Bram%20Stoker%20Award-Winner-FFC107.svg)](https://horror.org/stoker-awards/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/global-harmony-nexus-core">Global Harmony Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
