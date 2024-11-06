@@ -1,3 +1,14 @@
+[![United Nations](https://img.shields.io/badge/United%20Nations-Member-0072B8.svg)](https://www.un.org/)
+[![World Health Organization](https://img.shields.io/badge/World%20Health%20Organization-Member-4CAF50.svg)](https://www.who.int/)
+[![World Bank](https://img.shields.io/badge/World%20Bank-Member-F44336.svg)](https://www.worldbank.org/)
+[![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-Member-FF9800.svg)](https://www.imf.org/)
+[![European Union](https://img.shields.io/badge/European%20Union-Member-3F51B5.svg)](https://europa.eu/)
+[![NATO](https://img.shields.io/badge/NATO-Member-2196F3.svg)](https://www.nato.int/)
+[![African Union](https://img.shields.io/badge/African%20Union-Member-8BC34A.svg)](https://au.int/)
+[![Organization of American States](https://img.shields.io/badge/Organization%20of%20American%20States-Member-9C27B0.svg)](https://www.oas.org/)
+[![ASEAN](https://img.shields.io/badge/ASEAN-Member-FF5722.svg)](https://asean.org/)
+[![G20](https://img.shields.io/badge/G20-Member-673AB7.svg)](https://g20.org/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/global-harmony-nexus-core">Global Harmony Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # global-harmony-nexus-core
