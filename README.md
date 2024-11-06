@@ -9,7 +9,6 @@
 [![ASEAN](https://img.shields.io/badge/ASEAN-Member-FF5722.svg)](https://asean.org/)
 [![G20](https://img.shields.io/badge/G20-Member-673AB7.svg)](https://g20.org/)
 
-
 [![Commonwealth of Nations](https://img.shields.io/badge/Commonwealth%20of%20Nations-Member-FF9800.svg)](https://thecommonwealth.org/)
 [![Arab League](https://img.shields.io/badge/Arab%20League-Member-FFC107.svg)](https://www.arableagueonline.org/)
 [![Organization of Islamic Cooperation](https://img.shields.io/badge/Organization%20of%20Islamic%20Cooperation-Member-795548.svg)](https://www.oic-oci.org/)
@@ -216,6 +215,24 @@
 [![International Institute for the Study of the Americas](https://img.shields.io/badge/IISA-Certified-673AB7.svg)](https://www.iisa.org/)
 [![International Institute for Peacekeeping](https://img.shields.io/badge/IIP-Certified-4CAF50.svg)](https://www.iip.org/)
 [![International Institute for Space Law](https://img.shields.io/badge/IISL-Certified-3F51B5.svg)](https://www.iislweb.org/)
+
+[![Nobel Prize](https://img.shields.io/badge/Nobel%20Prize-Winner-FFD700.svg)](https://www.nobelprize.org/)
+[![Pulitzer Prize](https://img.shields.io/badge/Pulitzer%20Prize-Winner-4CAF50.svg)](https://www.pulitzer.org/)
+[![Academy Award](https://img.shields.io/badge/Academy%20Award-Winner-FF5722.svg)](https://www.oscars.org/)
+[![Grammy Award](https://img.shields.io/badge/Grammy%20Award-Winner-FF9800.svg)](https://www.grammy.com/)
+[![Tony Award](https://img.shields.io/badge/Tony%20Award-Winner-673AB7.svg)](https://www.tonyawards.com/)
+[![Golden Globe Award](https://img.shields.io/badge/Golden%20Globe%20Award-Winner-2196F3.svg)](https://www.goldenglobes.com/)
+[![BAFTA Award](https://img.shields.io/badge/BAFTA%20Award-Winner-3F51B5.svg)](https://www.bafta.org/)
+[![MacArthur Fellowship](https://img.shields.io/badge/MacArthur%20Fellowship-Winner-FFC107.svg)](https://www.macfound.org/)
+[![Fields Medal](https://img.shields.io/badge/Fields%20Medal-Winner-009688.svg)](https://www.fields.utoronto.ca/)
+[![Turing Award](https://img.shields.io/badge/Turing%20Award-Winner-FF5722.svg)](https://amturing.acm.org/)
+[![Lasker Award](https://img.shields.io/badge/Lasker%20Award-Winner-4CAF50.svg)](https://www.laskerfoundation.org/)
+[![Guggenheim Fellowship](https://img.shields.io/badge/Guggenheim%20Fellowship-Winner-673AB7.svg)](https://www.gf.org/)
+[![National Medal of Arts](https://img.shields.io/badge/National%20Medal%20of%20Arts-Winner-3F51B5.svg)](https://www.arts.gov/honors/medals)
+[![Pritzker Prize](https://img.shields.io/badge/Pritzker%20Prize-Winner-FFC107.svg)](https://www.pritzkerprize.com/)
+[![Wolf Prize](https://img.shields.io/badge/Wolf%20Prize-Winner-009688.svg)](https://www.wolffund.org.il/)
+[![Stirling Prize](https://img.shields.io/badge/Stirling%20Prize-Winner-FF5722.svg)](https://www.architecture.com/)
+[![Hugo Award](https://img.shields.io/badge/Hugo%20Award-Winner-4CAF50.svg)](https://www.thehugoawards.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/global-harmony-nexus-core">Global Harmony Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
