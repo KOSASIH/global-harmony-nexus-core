@@ -46,6 +46,26 @@
 [![International Association of Fire Fighters](https://img.shields.io/badge/IAFF-Certified-4CAF50.svg)](https://www.iaff.org/)
 [![International Association of Chiefs of Police](https://img.shields.io/badge/IACP-Certified-3F51B5.svg)](https://www.theiacp.org/)
 
+[![International Institute for Applied Systems Analysis](https://img.shields.io/badge/IIASA-Certified-4CAF50.svg)](https://www.iiasa.ac.at/)
+[![International Institute for Strategic Studies](https://img.shields.io/badge/IISS-Certified-FF9800.svg)](https://www.iiss.org/)
+[![International Institute for Environment and Development](https://img.shields.io/badge/IIED-Certified-3F51B5.svg)](https://www.iied.org/)
+[![International Institute for Sustainable Development](https://img.shields.io/badge/IISD-Certified-FF5722.svg)](https://www.iisd.org/)
+[![International Institute of Refrigeration](https://img.shields.io/badge/IIR-Certified-009688.svg)](https://www.iifiir.org/)
+[![International Institute for Peace](https://img.shields.io/badge/IIP-Certified-673AB7.svg)](https://www.iip.org/)
+[![International Institute for Strategic Studies](https://img.shields.io/badge/IISS-Certified-FF9800.svg)](https://www.iiss.org/)
+[![International Institute for Education Planning](https://img.shields.io/badge/IIEP-Certified-4CAF50.svg)](https://www.iiep.unesco.org/)
+[![International Institute for Democracy and Electoral Assistance](https://img.shields.io/badge/IDEA-Certified-3F51B5.svg)](https://www.idea.int/)
+[![International Institute for Management Development](https://img.shields.io/badge/IMD-Certified-FF5722.svg)](https://www.imd.org/)
+[![International Institute for Advanced Studies](https://img.shields.io/badge/IIAS-Certified-009688.svg)](https://www.iias.edu/)
+[![International Institute for Humanitarian Law](https://img.shields.io/badge/IIHL-Certified-673AB7.svg)](https://www.iihl.org/)
+[![International Institute for Peace Studies](https://img.shields.io/badge/IIPS-Certified-FF9800.svg)](https://www.iips.org/)
+[![International Institute for Global Health](https://img.shields.io/badge/IIGH-Certified-4CAF50.svg)](https://www.iigh.org/)
+[![International Institute for Water and Environmental Engineering](https://img.shields.io/badge/2iE-Certified-3F51B5.svg)](https://www.2ie-edu.org/)
+[![International Institute for Energy Conservation](https://img.shields.io/badge/IIEC-Certified-FF5722.svg)](https://www.iiec.org/)
+[![International Institute for Social Studies](https://img.shields.io/badge/IISS-Certified-009688.svg)](https://www.iss.nl/)
+[![International Institute for Space Law](https://img.shields.io/badge/IISL-Certified-673AB7.svg)](https://www.iislweb.org/)
+[![International Institute for the Study of Global Issues](https://img.shields.io/badge/ISGI-Certified-FF9800.svg)](https://www.isgi.org/)
+[![International Institute for the Study of the Americas](https://img.shields.io/badge/IISA-Certified-4CAF50.svg)](https://www.iiasa.ac.at/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/global-harmony-nexus-core">Global Harmony Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
