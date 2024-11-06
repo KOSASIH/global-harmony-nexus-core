@@ -39,6 +39,13 @@
 [![International Olympic Committee](https://img.shields.io/badge/International%20Olympic%20Committee-Certified-673AB7.svg)](https://www.olympic.org/)
 [![World Anti-Doping Agency](https://img.shields.io/badge/World%20Anti--Doping%20Agency-Certified-FF9800.svg)](https://www.wada-ama.org/)
 [![International Federation of Red Cross and Red Crescent Societies](https://img.shields.io/badge/IFRC-Certified-4CAF50.svg)](https://www.ifrc.org/)
+[![International Chamber of Commerce](https://img.shields.io/badge/International%20Chamber%20of%20Commerce-Certified-3F51B5.svg)](https://iccwbo.org/)
+[![World Customs Organization](https://img.shields.io/badge/World%20Customs%20Organization-Certified-FF5722.svg)](http://www.w3.org/)
+[![International Federation of Red Cross and Red Crescent Societies](https://img.shields.io/badge/IFRC-Certified-4CAF50.svg)](https://www.ifrc.org/)
+[![International Society for Technology in Education](https://img.shields.io/badge/ISTE-Certified-FF9800.svg)](https://www.iste.org/)
+[![International Association of Fire Fighters](https://img.shields.io/badge/IAFF-Certified-4CAF50.svg)](https://www.iaff.org/)
+[![International Association of Chiefs of Police](https://img.shields.io/badge/IACP-Certified-3F51B5.svg)](https://www.theiacp.org/)
+
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/global-harmony-nexus-core">Global Harmony Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a?trk=contact-info">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
