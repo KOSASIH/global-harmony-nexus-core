@@ -9,7 +9,17 @@
 [![ASEAN](https://img.shields.io/badge/ASEAN-Member-FF5722.svg)](https://asean.org/)
 [![G20](https://img.shields.io/badge/G20-Member-673AB7.svg)](https://g20.org/)
 
+
+[![Commonwealth of Nations](https://img.shields.io/badge/Commonwealth%20of%20Nations-Member-FF9800.svg)](https://thecommonwealth.org/)
+[![Arab League](https://img.shields.io/badge/Arab%20League-Member-FFC107.svg)](https://www.arableagueonline.org/)
+[![Organization of Islamic Cooperation](https://img.shields.io/badge/Organization%20of%20Islamic%20Cooperation-Member-795548.svg)](https://www.oic-oci.org/)
+[![Shanghai Cooperation Organization](https://img.shields.io/badge/Shanghai%20Cooperation%20Organization-Member-009688.svg)](https://eng.sectsco.org/)
+[![Gulf Cooperation Council](https://img.shields.io/badge/Gulf%20Cooperation%20Council-Member-3F51B5.svg)](https://www.gcc-sg.org/)
+[![Asia-Pacific Economic Cooperation](https://img.shields.io/badge/Asia--Pacific%20Economic%20Cooperation-Member-FF5722.svg)](https://www.apec.org/)
+[![International Criminal Court](https://img.shields.io/badge/International%20Criminal%20Court-Member-9C27B0.svg)](https://www.icc-cpi.int/)
+[![World Trade Organization](https://img.shields.io/badge/World%20Trade%20Organization-Member-4CAF50.svg)](https://www.wto.org/)
 [![Commonwealth of Nations](https://img.shields.io/badge/Commonwealth%20of%20Nations-Certified-FF9800.svg)](https://thecommonwealth.org/)
+
 [![Arab League](https://img.shields.io/badge/Arab%20League-Certified-FFC107.svg)](https://www.arableagueonline.org/)
 [![Organization of Islamic Cooperation](https://img.shields.io/badge/Organization%20of%20Islamic%20Cooperation-Certified-795548.svg)](https://www.oic-oci.org/)
 [![Shanghai Cooperation Organization](https://img.shields.io/badge/Shanghai%20Cooperation%20Organization-Certified-009688.svg)](https://eng.sectsco.org/)
